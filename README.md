@@ -11,7 +11,7 @@ Dedicated data engineer with a proven track record in automating data processes,
 
 ## Experience
 <div style="background-color: #F8F6F4; padding: 10px;">
-  
+
 ### PWC India
 - **Role:** Specialist
 - **Location:** Kolkata, India
