@@ -1,6 +1,6 @@
 # Abhinav Kumar - Data Engineer
 
-## Table of Contents
+## Quick Links
 - [About Me](#about-me)    • [Experience](#experience)   •  [Portfolio Website](https://abhinav-de-v2.s3.ap-south-1.amazonaws.com/Abhinav+Kumar+Data+Engineer.html)    •  [Technical Skills](#technical-skills)
 ---
 
@@ -45,10 +45,7 @@ Dedicated data engineer with a proven track record in automating data processes,
 ---
 
 ## Connect with Me
-- [Email](mailto:abhinavkumar2508@example.com)
-- [LinkedIn](https://www.linkedin.com/in/abhinav-kumar-2508/)
-- [GitHub](https://github.com/abhinavkumariem)
-- [Leetcode](https://leetcode.com/abhinavkumarleetcode/)
+- [Email](mailto:abhinavkumar2508@example.com)  [LinkedIn](https://www.linkedin.com/in/abhinav-kumar-2508/)   [GitHub](https://github.com/abhinavkumariem)   [Leetcode](https://leetcode.com/abhinavkumarleetcode/)
 
 ---
 
