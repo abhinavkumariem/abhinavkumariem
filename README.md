@@ -1,46 +1,106 @@
-# 👋 Hi, I’m Abhinav Kumar
-### <img src="https://abhinav-de-v2.s3.ap-south-1.amazonaws.com/Abhinav_kumar.jpg" height="24" /> Data Engineer from India.
-### 👀 I’m interested in ETL and Big Data Technologies.
-### 🌱 Currently working on transforming data into valuable insights.
+<!DOCTYPE html>
+<html>
 
-<!--#### 💞️ I’m looking to collaborate on ... -->
-### 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhinav-kumar-2508/) | [Portfolio](https://abhinav-de-v2.s3.ap-south-1.amazonaws.com/Abhinav+Kumar+Data+Engineer.html)
+<head>
+  <title>Abhinav Kumar - Data Engineer</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: "Raleway", sans-serif
+    }
 
-<!-- Skills Section -->
-## My Skills
-<p>
-    <img src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png" alt="python" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/888/888897.png" alt="c" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/888/888882.png" alt="c++" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/370/370928.png" alt="ssis" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/2991/2991142.png" alt="aws-glue" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/3112/3112475.png" alt="talend" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/888/888888.png" alt="sql-server" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/2306/2306163.png" alt="pl-sql" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="mongodb" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/888/888855.png" alt="aws-redshift" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/888/888883.png" alt="aws-s3" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/2306/2306166.png" alt="aws-athena" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" alt="docker" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" alt="spark" width="60" height="60"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/3665/3665994.png" alt="apache-airflow" width="60" height="60"/>
-</p>
+    body {
+      background-color: #E3F4F4;
+    }
 
-<!-- GitHub Stats Section -->
-## My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=avinash-here&show_icons=true&theme=react&hide_border=false&bg_color=#40A2E3,#FFF6E9,#BBE2EC,#0D9276" width="1000" height="200" />
+    .w3-sidebar {
+      background-color: #F8F6F4;
+    }
 
-<!-- Most Used Languages Section -->
-## Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-here&langs_count=8&count_private=true&layout=compact&theme=nuxt&bg_color=#40A2E3,#FFF6E9,#BBE2EC,#0D9276" width="1000" height="203" />
+    .w3-border-teal {
+      border-bottom: 2px solid #008080;
+    }
 
-<!-- Streak Stats Section -->
-## GitHub Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-here&theme=nuxt&bg_color=#40A2E3,#FFF6E9,#BBE2EC,#0D9276" width="1000" height="200" />
+    .w3-hover-mycolor:hover {
+      background-color: #D2E9E9;
+    }
 
-<!-- Contribution Graph Section -->
-## GitHub Contribution Graph
-[![Abhinav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avinash-here&bg_color=acafad&color=5d3c5b&line=865683&point=141414&area=true&hide_border=true)](https://github.com/avinash-here)
+    a.ex2:hover,
+    a.ex2:active {
+      font-size: 125%;
+      background-color: #D2E9E9;
+    }
 
-<!-- Profile Views Section -->
-<p> <img src="https://komarev.com/ghpvc/?username=avinash-here&label=Profile%20Views&color=000000&style=flat" alt="avinash-here" /> </p>
+    a.ex1:hover,
+    a.ex2:active {
+      font-size: 100%;
+    }
+
+    a.ex3:hover,
+    a.ex2:active {
+      font-size: 150%;
+    }
+  </style>
+</head>
+
+<body class="w3-content" style="max-width:1600px">
+
+  <!-- Sidebar/menu -->
+  <nav class="w3-sidebar w3-collapse w3-animate-left" style="z-index:3;width:300px;" id="mySidebar">
+    <br>
+    <div class="w3-container">
+      <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey" title="close menu">
+        <i class="fa fa-remove"></i>
+      </a>
+      <img src="https://abhinav-de-v2.s3.ap-south-1.amazonaws.com/Abhinav_kumar.jpg" style="width:45%;" class="w3-round"><br><br>
+      <h4><b>Abhinav Kumar</b></h4>
+      <p class="w3-text-grey">Data Engineer</p>
+    </div>
+    <div class="w3-bar-block">
+      <a href="#about" onclick="w3_close()" class="ex2 w3-bar-item w3-button w3-padding w3-hover-light-blue"><i class="fa fa-th-large fa-fw w3-margin-right"></i>ABOUT</a>
+      <a href="#Experience" onclick="w3_close()" class="ex2 w3-bar-item w3-button w3-padding w3-hover-light-blue"><i class=" fa fa-th-large fa-fw w3-margin-right"></i>Experience</a>
+      <a href="#portfolio" onclick="w3_close()" class="ex2 w3-bar-item w3-button w3-padding w3-hover-light-blue"><i class="fa fa-th-large fa-fw w3-margin-right"></i>PORTFOLIO</a>
+      <a href="#skills" onclick="w3_close()" class="ex2 w3-bar-item w3-button w3-padding w3-hover-light-blue"><i class="fa fa-th-large fa-fw w3-margin-right"></i>SKILLS</a>
+      <a href="#contact" onclick="w3_close()" class="ex2 w3-bar-item w3-button w3-padding w3-hover-light-blue"><i class="fa fa-th-large fa-fw w3-margin-right"></i>CONTACT</a>
+    </div>
+    <div class="w3-panel w3-large">
+      <!-- Add LinkedIn link -->
+      <a href="https://www.linkedin.com/in/abhinav-kumar-2508/" target="_blank" class="ex3 fa fa-linkedin "></a>
+      <a href="https://github.com/abhinavkumariem" target="_blank" class="ex3 fa fa-github "></a>
+      <!-- Add LeetCode link -->
+      <a href="https://leetcode.com/abhinavkumarleetcode/" target="_blank" class="ex3 fa fa-code"></a>
+    </div>
+  </nav>
+
+  <!-- Overlay effect when opening sidebar on small screens -->
+  <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+  <!-- !PAGE CONTENT! -->
+  <div class="w3-main" style="margin-left:300px">
+
+    <!-- About Me -->
+    <header id="about">
+      <a href="#"><img src="https://abhinav-de-v2.s3.ap-south-1.amazonaws.com/Abhinav_kumar.jpg" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
+      <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
+      <div class="w3-container">
+        <h1><b>About Me</b></h1>
+        <div class="w3-section w3-bottombar w3-border-teal"></div>
+      </div>
+    </header>
+
+    <div class="w3-row-padding">
+      <div class="w3-container w3-padding-large" style="margin-bottom:32px">
+        <div class="w3-container " style="background-color: #F8F6F4;">
+          <a class="ex1">
+            <p>Dedicated data engineer with a proven track record in automating data processes, implementing efficient database solutions, and leveraging machine learning for predictive analysis. Strong expertise in Python, SQL, and ETL tools. Thrives in collaborative, cross-functional environments. Recipient of Advisory Excellence Awards and Client Appreciation Award for exceptional contributions to telecom data automation projects.
