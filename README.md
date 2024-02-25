@@ -1,106 +1,103 @@
-<!DOCTYPE html>
-<html>
+# Abhinav Kumar - Data Engineer
 
-<head>
-  <title>Abhinav Kumar - Data Engineer</title>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
-  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <style>
-    body,
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      font-family: "Raleway", sans-serif
-    }
+![Abhinav Kumar](https://abhinav-de-v2.s3.ap-south-1.amazonaws.com/Abhinav_kumar.jpg)
 
-    body {
-      background-color: #E3F4F4;
-    }
+## Table of Contents
+- [About Me](#about-me)
+- [Experience](#experience)
+- [Portfolio](#portfolio)
+- [Technical Skills](#technical-skills)
+- [Contact](#contact)
 
-    .w3-sidebar {
-      background-color: #F8F6F4;
-    }
+---
 
-    .w3-border-teal {
-      border-bottom: 2px solid #008080;
-    }
+## About Me
+Dedicated data engineer with a proven track record in automating data processes, implementing efficient database solutions, and leveraging machine learning for predictive analysis. Strong expertise in Python, SQL, and ETL tools. Thrives in collaborative, cross-functional environments. Recipient of Advisory Excellence Awards and Client Appreciation Award for exceptional contributions to telecom data automation projects.
 
-    .w3-hover-mycolor:hover {
-      background-color: #D2E9E9;
-    }
+---
 
-    a.ex2:hover,
-    a.ex2:active {
-      font-size: 125%;
-      background-color: #D2E9E9;
-    }
+## Experience
 
-    a.ex1:hover,
-    a.ex2:active {
-      font-size: 100%;
-    }
+### PWC India
+- **Role:** Specialist
+- **Location:** Kolkata, India
+- **Duration:** August 2022 - Present
 
-    a.ex3:hover,
-    a.ex2:active {
-      font-size: 150%;
-    }
-  </style>
-</head>
+#### Responsibilities:
+- Managed and analyzed large datasets, ensuring data accuracy and reliability.
+- Initiated and led a Python script initiative to enhance data cleaning procedures, resulting in improved data accuracy and a streamlined manual workload.
+- Developed Python scripts for dynamic PDF hyperlink updates, along with a website comparison tool for line-by-line differences, showcasing strong problem-solving skills in link management and content verification.
+- Engineered PL/SQL and SQL Server stored procedures, achieving a significant efficiency gain of 25% in client data extraction, transformation, and loading processes.
+- Architected and executed SSIS packages to optimize data migration tasks, contributing to a notable 40% improvement in overall performance.
+- Collaborated across functions, gathered requirements, and delivered technical solutions aligned with business needs.
+- Resolved intricate data quality issues, enhancing data integrity.
 
-<body class="w3-content" style="max-width:1600px">
+#### Achievements:
+- Recipient of the Advisory Excellence Award in 2023 for spearheading highly effective ETL process development, showcasing expertise in data integration, and solving complex client problems.
 
-  <!-- Sidebar/menu -->
-  <nav class="w3-sidebar w3-collapse w3-animate-left" style="z-index:3;width:300px;" id="mySidebar">
-    <br>
-    <div class="w3-container">
-      <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey" title="close menu">
-        <i class="fa fa-remove"></i>
-      </a>
-      <img src="https://abhinav-de-v2.s3.ap-south-1.amazonaws.com/Abhinav_kumar.jpg" style="width:45%;" class="w3-round"><br><br>
-      <h4><b>Abhinav Kumar</b></h4>
-      <p class="w3-text-grey">Data Engineer</p>
-    </div>
-    <div class="w3-bar-block">
-      <a href="#about" onclick="w3_close()" class="ex2 w3-bar-item w3-button w3-padding w3-hover-light-blue"><i class="fa fa-th-large fa-fw w3-margin-right"></i>ABOUT</a>
-      <a href="#Experience" onclick="w3_close()" class="ex2 w3-bar-item w3-button w3-padding w3-hover-light-blue"><i class=" fa fa-th-large fa-fw w3-margin-right"></i>Experience</a>
-      <a href="#portfolio" onclick="w3_close()" class="ex2 w3-bar-item w3-button w3-padding w3-hover-light-blue"><i class="fa fa-th-large fa-fw w3-margin-right"></i>PORTFOLIO</a>
-      <a href="#skills" onclick="w3_close()" class="ex2 w3-bar-item w3-button w3-padding w3-hover-light-blue"><i class="fa fa-th-large fa-fw w3-margin-right"></i>SKILLS</a>
-      <a href="#contact" onclick="w3_close()" class="ex2 w3-bar-item w3-button w3-padding w3-hover-light-blue"><i class="fa fa-th-large fa-fw w3-margin-right"></i>CONTACT</a>
-    </div>
-    <div class="w3-panel w3-large">
-      <!-- Add LinkedIn link -->
-      <a href="https://www.linkedin.com/in/abhinav-kumar-2508/" target="_blank" class="ex3 fa fa-linkedin "></a>
-      <a href="https://github.com/abhinavkumariem" target="_blank" class="ex3 fa fa-github "></a>
-      <!-- Add LeetCode link -->
-      <a href="https://leetcode.com/abhinavkumarleetcode/" target="_blank" class="ex3 fa fa-code"></a>
-    </div>
-  </nav>
+---
 
-  <!-- Overlay effect when opening sidebar on small screens -->
-  <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+## Portfolio
 
-  <!-- !PAGE CONTENT! -->
-  <div class="w3-main" style="margin-left:300px">
+### Project: AWS Redshift using Python
+![AWS Redshift](AWS%20Redshift%20using%20Python.jpg)
+- **GitHub Repository:** [AWS Redshift Project](https://github.com/abhinavkumariem/Python-AWS-Redshift/tree/master)
+- **Description:** This project involves leveraging Python to interact with AWS services, specifically Amazon Redshift. It includes creating a Redshift cluster, setting up necessary configurations, accessing an S3 bucket to retrieve relevant files and load the records in Amazon Redshift, and establishing an IAM role for secure interactions. The final phase of the project involves connecting AWS Redshift to Power BI.
 
-    <!-- About Me -->
-    <header id="about">
-      <a href="#"><img src="https://abhinav-de-v2.s3.ap-south-1.amazonaws.com/Abhinav_kumar.jpg" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
-      <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
-      <div class="w3-container">
-        <h1><b>About Me</b></h1>
-        <div class="w3-section w3-bottombar w3-border-teal"></div>
-      </div>
-    </header>
+---
 
-    <div class="w3-row-padding">
-      <div class="w3-container w3-padding-large" style="margin-bottom:32px">
-        <div class="w3-container " style="background-color: #F8F6F4;">
-          <a class="ex1">
-            <p>Dedicated data engineer with a proven track record in automating data processes, implementing efficient database solutions, and leveraging machine learning for predictive analysis. Strong expertise in Python, SQL, and ETL tools. Thrives in collaborative, cross-functional environments. Recipient of Advisory Excellence Awards and Client Appreciation Award for exceptional contributions to telecom data automation projects.
+## Technical Skills
+
+### Programming Languages
+- Python
+- Java
+- C/C++
+
+### Data Integration
+- SSIS
+- AWS Glue
+- Talend
+
+### Database Technologies
+- SQL Server
+- PL/SQL
+- MongoDB
+
+### Cloud Technologies
+- AWS Redshift
+- AWS S3
+- AWS Athena
+
+### Big Data Technologies
+- Docker
+- Spark
+
+---
+
+## Contact Information
+
+**Email:** abhinavkuar2508@example.com
+
+**Phone:** +917484995469
+
+**Location:** Kolkata, India
+
+---
+
+## Connect with Me
+- [Email](mailto:abhinavkumar2508@example.com)
+- [LinkedIn](https://www.linkedin.com/in/abhinav-kumar-2508/)
+- [GitHub](https://github.com/abhinavkumariem)
+- [Leetcode](https://leetcode.com/abhinavkumarleetcode/)
+
+---
+
+## Quick Links
+- [Portfolio](#portfolio)
+- [Experience](#experience)
+- [Technical Skills](#technical-skills)
+
+---
+
+## Download Resume
+[Download Resume](Abhinav_kumar.pdf)
