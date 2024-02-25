@@ -10,7 +10,8 @@ Dedicated data engineer with a proven track record in automating data processes,
 ---
 
 ## Experience
-
+<div style="background-color: #F8F6F4; padding: 10px;">
+  
 ### PWC India
 - **Role:** Specialist
 - **Location:** Kolkata, India
@@ -28,26 +29,44 @@ Dedicated data engineer with a proven track record in automating data processes,
 #### Achievements:
 - Recipient of the Advisory Excellence Award in 2023 for spearheading highly effective ETL process development, showcasing expertise in data integration, and solving complex client problems.
 
+</div>
+
 ---
 
 ## Technical Skills
+<div style="background-color: #F8F6F4; padding: 10px;">
 
-### Programming Languages :-   Python  , C/C++
+### Programming Languages
+- Python
+- C/C++
 
-### Data Integration :- SSIS, AWS Glue, Talend
+### Data Integration
+- SSIS
+- AWS Glue
+- Talend
 
-### Database Technologies :- SQL Server, PL/SQL, MongoDB
+### Database Technologies
+- SQL Server
+- PL/SQL
+- MongoDB
 
-### Cloud Technologies :- AWS Redshift, AWS S3 , AWS Athena
+### Cloud Technologies
+- AWS Redshift
+- AWS S3
+- AWS Athena
 
-### Big Data Technologies :- Docker, Spark
+### Big Data Technologies
+- Docker
+- Spark
+
+</div>
 
 ---
 
 ## Connect with Me
-- [Email](mailto:abhinavkumar2508@example.com)  [LinkedIn](https://www.linkedin.com/in/abhinav-kumar-2508/)   [GitHub](https://github.com/abhinavkumariem)   [Leetcode](https://leetcode.com/abhinavkumarleetcode/)
+- [Email](mailto:abhinavkumar2508@example.com)    • [LinkedIn](https://www.linkedin.com/in/abhinav-kumar-2508/)     • [GitHub](https://github.com/abhinavkumariem)     • [Leetcode](https://leetcode.com/abhinavkumarleetcode/)
 
 ---
 
 ## Download Resume
-[Download Resume]([Abhinav_kumar.pdf](https://drive.google.com/file/d/1yEzyqCEP351abQTAQ0DU-ppnTzYFaWpQ/view?usp=sharing)https://drive.google.com/file/d/1yEzyqCEP351abQTAQ0DU-ppnTzYFaWpQ/view?usp=sharing)
+[Download Resume](https://drive.google.com/file/d/1yEzyqCEP351abQTAQ0DU-ppnTzYFaWpQ/view?usp=sharing)
