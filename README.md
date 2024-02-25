@@ -1,5 +1,4 @@
 # Abhinav Kumar - Data Engineer
-
 ## Quick Links
 - [About Me](#about-me)    • [Experience](#experience)   •  [Portfolio Website](https://abhinav-de-v2.s3.ap-south-1.amazonaws.com/Abhinav+Kumar+Data+Engineer.html)    •  [Technical Skills](#technical-skills)
 ---
@@ -10,56 +9,40 @@ Dedicated data engineer with a proven track record in automating data processes,
 ---
 
 ## Experience
-<div style="background-color: #F8F6F4; padding: 10px;">
+<details>
+  <summary>Click to expand</summary>
 
-### PWC India
-- **Role:** Specialist
-- **Location:** Kolkata, India
-- **Duration:** August 2022 - Present
+  ### PWC India
+  - **Role:** Specialist
+  - **Location:** Kolkata, India
+  - **Duration:** August 2022 - Present
 
-#### Responsibilities:
-- Managed and analyzed large datasets, ensuring data accuracy and reliability.
-- Initiated and led a Python script initiative to enhance data cleaning procedures, resulting in improved data accuracy and a streamlined manual workload.
-- Developed Python scripts for dynamic PDF hyperlink updates, along with a website comparison tool for line-by-line differences, showcasing strong problem-solving skills in link management and content verification.
-- Engineered PL/SQL and SQL Server stored procedures, achieving a significant efficiency gain of 25% in client data extraction, transformation, and loading processes.
-- Architected and executed SSIS packages to optimize data migration tasks, contributing to a notable 40% improvement in overall performance.
-- Collaborated across functions, gathered requirements, and delivered technical solutions aligned with business needs.
-- Resolved intricate data quality issues, enhancing data integrity.
+  #### Responsibilities:
+  - Managed and analyzed large datasets, ensuring data accuracy and reliability.
+  - Initiated and led a Python script initiative to enhance data cleaning procedures, resulting in improved data accuracy and a streamlined manual workload.
+  - Developed Python scripts for dynamic PDF hyperlink updates, along with a website comparison tool for line-by-line differences, showcasing strong problem-solving skills in link management and content verification.
+  - Engineered PL/SQL and SQL Server stored procedures, achieving a significant efficiency gain of 25% in client data extraction, transformation, and loading processes.
+  - Architected and executed SSIS packages to optimize data migration tasks, contributing to a notable 40% improvement in overall performance.
+  - Collaborated across functions, gathered requirements, and delivered technical solutions aligned with business needs.
+  - Resolved intricate data quality issues, enhancing data integrity.
 
-#### Achievements:
-- Recipient of the Advisory Excellence Award in 2023 for spearheading highly effective ETL process development, showcasing expertise in data integration, and solving complex client problems.
+  #### Achievements:
+  - Recipient of the Advisory Excellence Award in 2023 for spearheading highly effective ETL process development, showcasing expertise in data integration, and solving complex client problems.
 
-</div>
-
+</details>
 ---
 
 ## Technical Skills
-<div style="background-color: #F8F6F4; padding: 10px;">
 
-### Programming Languages
-- Python
-- C/C++
+### Programming Languages :-   Python  , C/C++
 
-### Data Integration
-- SSIS
-- AWS Glue
-- Talend
+### Data Integration :- SSIS, AWS Glue, Talend
 
-### Database Technologies
-- SQL Server
-- PL/SQL
-- MongoDB
+### Database Technologies :- SQL Server, PL/SQL, MongoDB
 
-### Cloud Technologies
-- AWS Redshift
-- AWS S3
-- AWS Athena
+### Cloud Technologies :- AWS Redshift, AWS S3 , AWS Athena
 
-### Big Data Technologies
-- Docker
-- Spark
-
-</div>
+### Big Data Technologies :- Docker, Spark
 
 ---
 
