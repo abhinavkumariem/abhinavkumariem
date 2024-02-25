@@ -50,4 +50,4 @@ Dedicated data engineer with a proven track record in automating data processes,
 ---
 
 ## Download Resume
-[Download Resume](Abhinav_kumar.pdf)
+[Download Resume]([Abhinav_kumar.pdf](https://drive.google.com/file/d/1yEzyqCEP351abQTAQ0DU-ppnTzYFaWpQ/view?usp=sharing)https://drive.google.com/file/d/1yEzyqCEP351abQTAQ0DU-ppnTzYFaWpQ/view?usp=sharing)
