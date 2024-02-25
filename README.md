@@ -1,7 +1,5 @@
 # Abhinav Kumar - Data Engineer
 
-![Abhinav Kumar](https://abhinav-de-v2.s3.ap-south-1.amazonaws.com/Abhinav_kumar.jpg)
-
 ## Table of Contents
 - [About Me](#about-me)
 - [Experience](#experience)
@@ -40,7 +38,8 @@ Dedicated data engineer with a proven track record in automating data processes,
 ## Portfolio
 
 ### Project: AWS Redshift using Python
-![AWS Redshift](AWS%20Redshift%20using%20Python.jpg)
+
+![Abhinav_AWS_de_project_1](https://github.com/abhinavkumariem/Python-AWS-Redshift/assets/95907012/a060c46e-36cc-48d8-a565-f5394392e7a6)
 - **GitHub Repository:** [AWS Redshift Project](https://github.com/abhinavkumariem/Python-AWS-Redshift/tree/master)
 - **Description:** This project involves leveraging Python to interact with AWS services, specifically Amazon Redshift. It includes creating a Redshift cluster, setting up necessary configurations, accessing an S3 bucket to retrieve relevant files and load the records in Amazon Redshift, and establishing an IAM role for secure interactions. The final phase of the project involves connecting AWS Redshift to Power BI.
 
