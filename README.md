@@ -1,12 +1,7 @@
 # Abhinav Kumar - Data Engineer
 
 ## Table of Contents
-- [About Me](#about-me)
-- [Experience](#experience)
-- [Portfolio](#portfolio)
-- [Technical Skills](#technical-skills)
-- [Contact](#contact)
-
+- [About Me](#about-me)    • [Experience](#experience)   •  [Portfolio Website](https://abhinav-de-v2.s3.ap-south-1.amazonaws.com/Abhinav+Kumar+Data+Engineer.html)    •  [Technical Skills](#technical-skills)
 ---
 
 ## About Me
@@ -35,51 +30,17 @@ Dedicated data engineer with a proven track record in automating data processes,
 
 ---
 
-## Portfolio
-
-### Project: AWS Redshift using Python
-
-![Abhinav_AWS_de_project_1](https://github.com/abhinavkumariem/Python-AWS-Redshift/assets/95907012/a060c46e-36cc-48d8-a565-f5394392e7a6)
-- **GitHub Repository:** [AWS Redshift Project](https://github.com/abhinavkumariem/Python-AWS-Redshift/tree/master)
-- **Description:** This project involves leveraging Python to interact with AWS services, specifically Amazon Redshift. It includes creating a Redshift cluster, setting up necessary configurations, accessing an S3 bucket to retrieve relevant files and load the records in Amazon Redshift, and establishing an IAM role for secure interactions. The final phase of the project involves connecting AWS Redshift to Power BI.
-
----
-
 ## Technical Skills
 
-### Programming Languages
-- Python
-- Java
-- C/C++
+### Programming Languages :-   Python  , C/C++
 
-### Data Integration
-- SSIS
-- AWS Glue
-- Talend
+### Data Integration :- SSIS, AWS Glue, Talend
 
-### Database Technologies
-- SQL Server
-- PL/SQL
-- MongoDB
+### Database Technologies :- SQL Server, PL/SQL, MongoDB
 
-### Cloud Technologies
-- AWS Redshift
-- AWS S3
-- AWS Athena
+### Cloud Technologies :- AWS Redshift, AWS S3 , AWS Athena
 
-### Big Data Technologies
-- Docker
-- Spark
-
----
-
-## Contact Information
-
-**Email:** abhinavkuar2508@example.com
-
-**Phone:** +917484995469
-
-**Location:** Kolkata, India
+### Big Data Technologies :- Docker, Spark
 
 ---
 
@@ -88,13 +49,6 @@ Dedicated data engineer with a proven track record in automating data processes,
 - [LinkedIn](https://www.linkedin.com/in/abhinav-kumar-2508/)
 - [GitHub](https://github.com/abhinavkumariem)
 - [Leetcode](https://leetcode.com/abhinavkumarleetcode/)
-
----
-
-## Quick Links
-- [Portfolio](#portfolio)
-- [Experience](#experience)
-- [Technical Skills](#technical-skills)
 
 ---
 
