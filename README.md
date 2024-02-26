@@ -56,8 +56,9 @@ Dedicated data engineer with a proven track record in automating data processes,
 
 [Download Resume](https://drive.google.com/file/d/1yEzyqCEP351abQTAQ0DU-ppnTzYFaWpQ/view?usp=sharing)
 
+---
 
-[![Readme Card](https://github.com/abhinavkumariem/Python-AWS-Redshift)](https://github.com/abhinavkumariem/Python-AWS-Redshift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavkumariem&repo=Python-AWS-Redshift)](https://github.com/abhinavkumariem/Python-AWS-Redshift)
 
 
 
