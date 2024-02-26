@@ -1,4 +1,5 @@
 # Abhinav Kumar - Data Engineer
+
 ## Quick Links
 - [About Me](#about-me)    • [Experience](#experience)   •  [Portfolio Website]()    •  [Technical Skills](#technical-skills)
 ---
@@ -52,4 +53,12 @@ Dedicated data engineer with a proven track record in automating data processes,
 ---
 
 ## Download Resume
+
 [Download Resume](https://drive.google.com/file/d/1yEzyqCEP351abQTAQ0DU-ppnTzYFaWpQ/view?usp=sharing)
+
+
+[![Readme Card](https://github.com/abhinavkumariem/Python-AWS-Redshift)](https://github.com/abhinavkumariem/Python-AWS-Redshift)
+
+
+
+
