@@ -59,7 +59,8 @@ Dedicated data engineer with a proven track record in automating data processes,
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavkumariem&repo=Python-AWS-Redshift)](https://github.com/abhinavkumariem/Python-AWS-Redshift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavkumariem&repo=Redfin-AWS-Apache-Airflow-Data-Pipeline](https://github.com/abhinavkumariem/Redfin-AWS-Apache-Airflow-Data-Pipeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavkumariem&repo=Redfin-AWS-Apache-Airflow-Data-Pipeline)](https://github.com/abhinavkumariem/Redfin-AWS-Apache-Airflow-Data-Pipeline)
+
 
 
 
