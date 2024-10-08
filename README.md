@@ -51,7 +51,7 @@ Received the Advisory Excellence Award (09/2023) for outstanding contributions t
 ---
 
 ## Connect with Me
-- [Email](mailto:abhinavkumar2508@example.com)    • [LinkedIn](https://www.linkedin.com/in/abhinav-kumar-2508/)     • [GitHub](https://github.com/abhinavkumariem)     • [Leetcode](https://leetcode.com/abhinavkumarleetcode/)
+- [Email](mailto:abhinavkumariem@example.com)    • [LinkedIn](https://www.linkedin.com/in/abhinav-kumar-2508/)     • [GitHub](https://github.com/abhinavkumariem)     • [Leetcode](https://leetcode.com/abhinavkumarleetcode/)
 
 ---
 
