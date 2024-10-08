@@ -14,7 +14,7 @@ Dedicated data engineer with a proven track record in automating data processes,
   <summary>Click to expand</summary>
 
   ### PWC India
-  - **Role:** Specialist
+  - **Role:** Associate
   - **Location:** Kolkata, India
   - **Duration:** August 2022 - Present
 
