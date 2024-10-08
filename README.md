@@ -19,13 +19,16 @@ Dedicated data engineer with a proven track record in automating data processes,
   - **Duration:** August 2022 - Present
 
   #### Responsibilities:
-  - Managed and analyzed large datasets, ensuring data accuracy and reliability.
-  - Initiated and led a Python script initiative to enhance data cleaning procedures, resulting in improved data accuracy and a streamlined manual workload.
-  - Developed Python scripts for dynamic PDF hyperlink updates, along with a website comparison tool for line-by-line differences, showcasing strong problem-solving skills in link management and content verification.
-  - Engineered PL/SQL and SQL Server stored procedures, achieving a significant efficiency gain of 25% in client data extraction, transformation, and loading processes.
-  - Architected and executed SSIS packages to optimize data migration tasks, contributing to a notable 40% improvement in overall performance.
-  - Collaborated across functions, gathered requirements, and delivered technical solutions aligned with business needs.
-  - Resolved intricate data quality issues, enhancing data integrity.
+ ETL Pipeline Development: Designed and developed high-performance ETL pipelines using Python, PySpark, and AWS Glue to migrate data from multiple legacy systems to centralized data warehouses on AWS.
+Cloud Data Solutions: Leveraged AWS services (Redshift, S3, EMR, Lambda) to build cloud-based, scalable data solutions, optimizing performance for real-time data processing and analytics.
+Data Migration: Led database migration projects for multinational clients, ensuring data accuracy and integrity through automated validation and comprehensive data quality checks.
+Automation and Scripting: Developed automation scripts using Python and SQL for data validation, integrity checks, and data cleansing, significantly reducing manual intervention.
+Cross-Functional Collaboration: Collaborated with cross-functional teams, including developers and system administrators, in Agile environments to ensure successful project delivery and alignment with client requirements.
+Documentation and Reporting: Created and maintained detailed technical documentation for ETL processes, migration strategies, and operational procedures.
+Achievements:
+
+Optimized data processing time by 30% through advanced ETL optimization techniques using PySpark and AWS Glue.
+Received the Advisory Excellence Award (09/2023) for outstanding contributions to a mission-critical data migration project, demonstrating expertise in ETL optimization and data quality management.
 
   #### Achievements:
   - Recipient of the Advisory Excellence Award in 2023 for spearheading highly effective ETL process development, showcasing expertise in data integration, and solving complex client problems.
@@ -52,9 +55,6 @@ Dedicated data engineer with a proven track record in automating data processes,
 
 ---
 
-## Download Resume
-
-[Download Resume](https://drive.google.com/file/d/1yEzyqCEP351abQTAQ0DU-ppnTzYFaWpQ/view?usp=sharing)
 
 ---
 
